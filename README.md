@@ -76,14 +76,11 @@ This repository tracks my 90-day journey learning C++ and Data Structures & Algo
   - Variable declarations
   - Type conversions
 
-## Daily Learning Template
+## Daily Learning Track
 ```cpp
 
-Day: [X]
-Topic: [Topic Name]
-Date: [DD-MM-YYYY]
+Day: [1]
+Topic: [Development Environment Setup]
+Date: [17-01-2025]
 
-// Code examples
-// Practice problems
-// Notes and observations
 ```
