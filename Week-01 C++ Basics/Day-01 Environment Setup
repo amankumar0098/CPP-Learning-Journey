@@ -1,0 +1,18 @@
+## Day 1: Setting Up Development Environment
+
+### Required Software
+1. Code Editor/IDE Options:
+   - Visual Studio Code (Recommended for beginners)
+   - Code::Blocks
+   - Dev-C++
+   - Visual Studio
+
+### Setting Up VS Code for C++
+1. Install VS Code
+2. Install Required Extensions:
+   - C/C++ extension by Microsoft
+   - Code Runner (optional)
+3. Install C++ Compiler (MinGW for Windows):
+   - Download MinGW installer
+   - Select and install gcc and g++ packages
+   - Add compiler to system PATH
